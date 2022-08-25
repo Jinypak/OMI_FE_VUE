@@ -1,8 +1,11 @@
 <template>
-    <h2>게시판</h2>
+  <div class="container w-full">
+    <board-category></board-category>
+  </div>
 </template>
 
 <script setup>
+import BoardCategory from '../components/board/boardCategory'
 
 </script>
 

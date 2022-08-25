@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed bottom-0 left-0 right-0 max-w-6xl m-auto">
+  <div class="fixed bottom-0 left-0 right-0 max-w-6xl m-auto bg-white">
     <ul class="flex justify-evenly">
       <router-link to="/">메인</router-link>
       <router-link to="/">컨텐츠</router-link>
